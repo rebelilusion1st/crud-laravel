@@ -1,0 +1,1 @@
+Ini adalah CRUD menggunakan Laravel versi 8.
